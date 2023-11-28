@@ -15,6 +15,9 @@ contract StorageFactory {
   // updating the favNumber of different instance of simpleStorage;
   
   function SfStore(uint256 _simpleStorageIndex, uint256 _favNumber) public {
+    
+    // address required to invoke
+    // contract abi required
     SimpleStorage simpleStorage = simpleStorageList[_simpleStorageIndex];
     simpleStorage.setFavNumber(_favNumber);
     
