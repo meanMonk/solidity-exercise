@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "./simpleStorage.sol";
+import "./SimpleStorage.sol";
 
 contract ExtraStorage is SimpleStorage {
   // set fav with +5
