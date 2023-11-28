@@ -20,7 +20,7 @@ contract SimpleStorage {
     string name;
   }
   
-  function setFavNumber(uint256 _favNumber) public {
+  function setFavNumber(uint256 _favNumber) public virtual {
     favNumber = _favNumber;
   }
   
