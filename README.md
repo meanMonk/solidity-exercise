@@ -1,7 +1,7 @@
 # Learning Solidity
 
 References: 
-  - (patric - learn blockchain 32hrs)[https://youtu.be/gyMwXuJrbJQ]
+  - [patric - learn blockchain 32hrs](https://youtu.be/gyMwXuJrbJQ)
 
 
 - Tools: https://remix.ethereum.org
