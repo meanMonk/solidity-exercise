@@ -1,9 +1,10 @@
 # Learning Solidity
 
+References: 
+  - (patric - learn blockchain 32hrs)[https://youtu.be/gyMwXuJrbJQ]
+
 
 - Tools: https://remix.ethereum.org
-
-
 
 DataTypes: 
  - bool
@@ -58,3 +59,4 @@ Inheritance:
 Overriding: 
  - virtual : function that we can override
  - override : function which works as overriden
+
